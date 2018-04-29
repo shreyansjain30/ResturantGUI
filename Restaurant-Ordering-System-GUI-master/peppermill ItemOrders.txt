@@ -1,0 +1,49 @@
+Date: 28 17 2018 
+ 
+Order number1,  2018-04-28 21:04:58.454
+Spring Roll
+180
+Nachos 
+180
+Arabita Pasta 
+200
+Total Price is: $560
+ 
+Order number2,  2018-04-28 21:05:06.567
+Canneloni
+180
+Arabita Pasta 
+200
+Cottage cheese Steak 
+280
+Total Price is: $660
+ 
+Date: 28 17 2018 
+ 
+Order number1,  2018-04-28 21:11:15.674
+Chilli Chesse 
+200
+Alfredo Pasta
+200
+Canneloni
+180
+Total Price is: $580
+ 
+Date: 28 17 2018 
+ 
+Order number1,  2018-04-28 21:20:42.221
+Nachos 
+180
+Canneloni
+180
+Total Price is: $360
+ 
+Date: 29 18 2018 
+ 
+Order number1,  2018-04-29 14:48:01.925
+Spring Roll
+180
+Nachos 
+180
+Total Price is: $360
+ 

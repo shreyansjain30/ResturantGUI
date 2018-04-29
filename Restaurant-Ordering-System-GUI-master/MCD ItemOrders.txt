@@ -1,0 +1,9 @@
+Date: 29 18 2018 
+ 
+Order number1,  2018-04-29 15:56:43.445
+burger 
+200
+burger 
+200
+Total Price is: $400
+ 
